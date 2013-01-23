@@ -39,7 +39,7 @@
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
     <OutputPath>bin\Debug\</OutputPath>
-    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DefineConstants>TRACE;DEBUG;ARC100</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <RegisterForComInterop>true</RegisterForComInterop>
@@ -100,11 +100,11 @@
     </Reference>
     <Reference Include="ogr_csharp, Version=1.0.4551.37149, Culture=neutral, PublicKeyToken=db5a52b08dc5b321, processorArchitecture=x86">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\..\Desktop\gdal-1.9.1-32bit\bin\gdal\csharp\ogr_csharp.dll</HintPath>
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\GDAL\csharp\ogr_csharp.dll</HintPath>
     </Reference>
     <Reference Include="osr_csharp, Version=1.0.4551.37148, Culture=neutral, PublicKeyToken=db5a52b08dc5b321, processorArchitecture=x86">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\..\Desktop\gdal-1.9.1-32bit\bin\gdal\csharp\osr_csharp.dll</HintPath>
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\GDAL\csharp\osr_csharp.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />

@@ -213,7 +213,11 @@ namespace GDAL.OGRPlugin
             string wkt;
             ogrSR.ExportToWkt(out wkt);
 
+#if ARC101
             ISpatialReferenceFactory4 spatialReferenceFactory = new ESRI.ArcGIS.Geometry.SpatialReferenceEnvironmentClass();
+#else
+            ISpatialReferenceFactory3 spatialReferenceFactory = new ESRI.ArcGIS.Geometry.SpatialReferenceEnvironmentClass();
+#endif
             ISpatialReference sr;
 
             int bytesRead;

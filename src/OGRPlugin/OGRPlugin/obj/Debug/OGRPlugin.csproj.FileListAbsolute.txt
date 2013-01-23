@@ -1,0 +1,12 @@
+C:\Workspace\github\arcgis-ogr\src\OGRPlugin\OGRPlugin\bin\Debug\OGRPlugin.dll
+C:\Workspace\github\arcgis-ogr\src\OGRPlugin\OGRPlugin\bin\Debug\OGRPlugin.pdb
+C:\Workspace\github\arcgis-ogr\src\OGRPlugin\OGRPlugin\bin\Debug\OGRPlugin.tlb
+C:\Workspace\github\arcgis-ogr\src\OGRPlugin\OGRPlugin\bin\Debug\ogr_csharp.dll
+C:\Workspace\github\arcgis-ogr\src\OGRPlugin\OGRPlugin\bin\Debug\osr_csharp.dll
+C:\Workspace\github\arcgis-ogr\src\OGRPlugin\OGRPlugin\obj\Debug\ResolveAssemblyReference.cache
+C:\Workspace\github\arcgis-ogr\src\OGRPlugin\OGRPlugin\obj\Debug\GDAL.OGRPlugin.OGRAddLayerDialog.resources
+C:\Workspace\github\arcgis-ogr\src\OGRPlugin\OGRPlugin\obj\Debug\OGRDatasource.Properties.Resources.resources
+C:\Workspace\github\arcgis-ogr\src\OGRPlugin\OGRPlugin\obj\Debug\GenerateResource.read.1.tlog
+C:\Workspace\github\arcgis-ogr\src\OGRPlugin\OGRPlugin\obj\Debug\GenerateResource.write.1.tlog
+C:\Workspace\github\arcgis-ogr\src\OGRPlugin\OGRPlugin\obj\Debug\OGRPlugin.dll
+C:\Workspace\github\arcgis-ogr\src\OGRPlugin\OGRPlugin\obj\Debug\OGRPlugin.pdb
